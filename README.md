@@ -1,16 +1,5 @@
 # clima
 
-A new Flutter project.
+ A weather app inspired by the beautiful designs made by Olia Gozha. We can find out the live weather data in the current location of the device as well as the weather for any city you can think of!
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[viid2.webm](https://user-images.githubusercontent.com/114687562/196050089-e4a50fae-a2d7-43ad-bcf0-7ae155dd9f0b.webm)
